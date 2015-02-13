@@ -1,0 +1,14 @@
+.imagen{
+	width: 500px;
+	height: 500px;
+}
+#boton{
+	float: right;
+	position: relative;
+	top: -100px;
+	left: -450px;
+	border: 2px solid blue;
+	width: 200px;
+	font-size: 30px;
+	text-align: center;
+}
